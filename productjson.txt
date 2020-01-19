@@ -1,0 +1,6 @@
+{
+        "id": 1,
+        "name": "IPhone",
+        "description": "It Rocks",
+        "price": 1500
+}
